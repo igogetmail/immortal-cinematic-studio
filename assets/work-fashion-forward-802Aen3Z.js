@@ -1,0 +1,6 @@
+import{c as o,j as e,a as s,b as n}from"./index-B3pN27aw.js";/**
+ * @license lucide-react v0.462.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const d=o("Play",[["polygon",{points:"6 3 20 12 6 21 6 3",key:"1oa8hb"}]]),i=n("inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2",{variants:{variant:{default:"border-transparent bg-primary text-primary-foreground hover:bg-primary/80",secondary:"border-transparent bg-secondary text-secondary-foreground hover:bg-secondary/80",destructive:"border-transparent bg-destructive text-destructive-foreground hover:bg-destructive/80",outline:"text-foreground"}},defaultVariants:{variant:"default"}});function u({className:r,variant:t,...a}){return e.jsx("div",{className:s(i({variant:t}),r),...a})}const g="/immortal-cinematic-studio/assets/work-auto-campaign-BTuW0yGn.jpg",f="/immortal-cinematic-studio/assets/work-heritage-doc-BfAQVWBa.jpg",m="/immortal-cinematic-studio/assets/work-fashion-forward-vBFDl5VB.jpg";export{u as B,d as P,f as a,m as b,g as w};
